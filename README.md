@@ -4,7 +4,7 @@
 
 As a final-year engineering student, I’m passionate about building **robust backend systems** and honing my **problem-solving** skills. I thrive on **optimizing performance** and simplifying complex challenges through thoughtful design and clean code.
 
- ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+ ![Profile views](https://komarev.com/ghpvc/?username=UmangSonthaliya&color=blue)
 
 - 🌱 I’m currently working on backend projects using **Java** and **Spring Boot**.
 - 🛠️ I have experience in **Microservices**, **JWT authentication**, and **RESTful APIs**.
