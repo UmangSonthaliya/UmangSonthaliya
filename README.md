@@ -68,8 +68,8 @@ As a final-year engineering student, I’m passionate about building **robust ba
 ---
 
 ### 🏆 GitHub Stats:
-![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Umang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmangSonthaliya&show_icons=true&theme=radical)
+![Umang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmangSonthaliya&theme=radical)
 
 > "The only way to do great work is to love what you do." — Steve Jobs
 
