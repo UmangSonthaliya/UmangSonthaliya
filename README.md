@@ -4,7 +4,7 @@
 
 I’m a final-year engineering student actively working as a **Backend Developer Intern at Solvei8-Buyogo**, where I build scalable backend systems using **Java**, **Spring Boot**, and **Apache Kafka**. I love diving deep into backend architectures, solving real-world problems, and optimizing systems for **performance and reliability**.
 
-![Profile views](https://komarev.com/ghpvc/?username=UmangSonthaliya&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=username&color=blue)
 
 - 🔧 Currently building scalable REST APIs and microservices at **Solvei8-Buyogo**.
 - 🌱 Exploring real-time processing using **Apache Flink** and **Spark**.
